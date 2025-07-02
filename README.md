@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, soy Axel Chaikh</h1>
+<h1 align="center">Hi 👋, I'm Axel Chaikh</h1>
 <p align="center">
-  📍 Argentina · 🧠 Analista en Sistemas · 👨‍💻 Desarrollador Full Stack
+  📍 Argentina · 🧠 Systems Analyst · 👨‍💻 Full Stack Developer
 </p>
 
 ---
 
-### 🧰 Tecnologías y herramientas
+### 🧰 Tech Stack & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
@@ -14,11 +14,11 @@
 
 ---
 
-### 🚀 Sobre mí
-- 🔭 Actualmente trabajando en proyectos que integran bases de datos, APIs y UI modernas
-- ⚡ Apasionado por automatizaciones, diseño de sistemas y mejorar experiencias de usuario
-- 🌱 Aprendiendo Machine Learning y AI aplicada a productos reales
-- 📫 Contactame en [LinkedIn](https://www.linkedin.com/in/axelchaikh/) o [por email](mailto:axelchaikh@gmail.com)
+### 🚀 About Me
+- 🔭 Currently working on projects integrating databases, APIs, and modern UIs  
+- ⚡ Passionate about automation, systems design, and improving user experiences  
+- 🌱 Learning Machine Learning and AI applied to real-world products  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/axelchaikh/) or [email me](mailto:your@email.com)
 
 ---
 
