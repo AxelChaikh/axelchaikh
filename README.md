@@ -8,6 +8,7 @@
 ### 🧰 Tech Stack & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![FileMaker](https://img.shields.io/badge/-FileMaker-black?style=flat-square&logo=filemaker)
@@ -24,6 +25,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axelchaikh&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelchaikh&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=axelchaikh&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelchaikh&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
