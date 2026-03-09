@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Axel Chaikh</h1>
 <p align="center">
-  📍 Argentina · 🧠 Systems Analyst · 👨‍💻 Full Stack Developer
+  📍 Argentina · 🧠 Systems Analyst · 👨‍💻 Software Developer
 </p>
 
 ---
