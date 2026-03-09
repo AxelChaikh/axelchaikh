@@ -7,6 +7,8 @@
 
 ### 🧰 Tech Stack & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+![SvelteKit](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
