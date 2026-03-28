@@ -27,15 +27,8 @@
 
 ### 📊 GitHub Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=axelchaikh&show_icons=true&theme=chartreuse-dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=axelchaikh&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=axelchaikh&show_icons=true" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=axelchaikh-2005&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=axelchaikh-2005&show_icons=true&theme=chartreuse-dark&hide_border=true&layout=compact" />
+</p>
 
